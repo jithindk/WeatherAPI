@@ -1,0 +1,45 @@
+-------------------------------------------------------------
+Weather Stats for - TRIVANDRUM  || 23 Jun 2021 | 06:11:49 PM
+-------------------------------------------------------------
+Current temperature is: 27.99 deg C
+Current weather desc  : haze
+Current Humidity      : 83 %
+Current wind speed    : 2.06 kmph
+
+
+-------------------------------------------------------------
+Weather Stats for - KOCHI  || 23 Jun 2021 | 06:11:55 PM
+-------------------------------------------------------------
+Current temperature is: 29.00 deg C
+Current weather desc  : haze
+Current Humidity      : 79 %
+Current wind speed    : 4.12 kmph
+
+
+-------------------------------------------------------------
+Weather Stats for - DELHI  || 23 Jun 2021 | 06:11:59 PM
+-------------------------------------------------------------
+Current temperature is: 41.10 deg C
+Current weather desc  : clear sky
+Current Humidity      : 15 %
+Current wind speed    : 2.95 kmph
+
+
+-------------------------------------------------------------
+Weather Stats for - BANGALORE  || 23 Jun 2021 | 06:12:03 PM
+-------------------------------------------------------------
+Current temperature is: 29.26 deg C
+Current weather desc  : broken clouds
+Current Humidity      : 48 %
+Current wind speed    : 2.06 kmph
+
+
+-------------------------------------------------------------
+Weather Stats for - MUMBAI  || 23 Jun 2021 | 06:12:08 PM
+-------------------------------------------------------------
+Current temperature is: 30.99 deg C
+Current weather desc  : haze
+Current Humidity      : 74 %
+Current wind speed    : 6.17 kmph
+
+
