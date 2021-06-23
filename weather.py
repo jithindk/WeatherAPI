@@ -32,7 +32,6 @@ with open('weather.txt','a') as f:
 print ("-------------------------------------------------------------")
 print ("Weather Stats for - {}  || {}".format(location.upper(), date_time))
 print ("-------------------------------------------------------------")
-
 print ("Current temperature is: {:.2f} deg C".format(temp_city))
 print ("Current weather desc  :",weather_desc)
 print ("Current Humidity      :",hmdt, '%')
